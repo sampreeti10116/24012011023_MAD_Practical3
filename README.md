@@ -322,6 +322,25 @@ After completing this practical, the student will be able to:
 - Work with Buttons and ConstraintLayout.
 - Add Activities and Drawable resources.
 
+## Output Screenshots:
+<table>
+    <tr>
+        <td><img width="235" height="505" alt="image" src="https://github.com/user-attachments/assets/2b39e1ce-0c2c-452f-aaac-13dfa467f173" /></td>
+        <td><img width="226" height="503" alt="image" src="https://github.com/user-attachments/assets/4f875286-0beb-4cc6-8a2e-d99fd32b6263" />
+</td>
+        <td><img width="236" height="508" alt="image" src="https://github.com/user-attachments/assets/eca3f535-ca78-41f0-8e19-5b886c6f9608" />
+</td>
+    </tr>
+    <tr>
+        <td><img width="239" height="517" alt="image" src="https://github.com/user-attachments/assets/4ab43b88-230f-48d8-a491-3f0d7ea52e72" />
+</td>
+        <td><img width="231" height="516" alt="image" src="https://github.com/user-attachments/assets/e741c134-3a6d-4d11-8390-23f57b0d4638" />
+</td>
+        <td><img width="238" height="512" alt="image" src="https://github.com/user-attachments/assets/4429a2e8-33b4-4eb7-b5db-9cbb92fe228d" />
+</td>
+    </tr>
+</table>
+
 ## Conclusion
 
 Practical-3 demonstrates communication between Android applications and Activities using **Implicit and Explicit Intents**. It also introduces Intent actions, URI and MIME types, permissions, Activity Result APIs, and Android UI components. These concepts are essential for building interactive Android applications that can access device features and other applications.
